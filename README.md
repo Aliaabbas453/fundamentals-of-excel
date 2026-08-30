@@ -5,7 +5,7 @@ A collection of Excel assignments covering fundamental to intermediate spreadshe
 
 ### 📊 Assignment 1: Excel Fundamentals
 
-**File:** `Assignment1(3).xlsx`
+**File:** "C:\Users\Ali Abbas\OneDrive\เอกสาร\Assignment1.xlsx"
 
 This assignment focuses on Excel basics and cell references.
 
@@ -32,7 +32,7 @@ This assignment focuses on Excel basics and cell references.
 
 ### 📋 Assignment 2: Data Management & Excel Tables
 
-**File:** `Assignment 2(3).xlsx`
+**File:** C:\Users\Ali Abbas\Downloads\Assignment 2 (3).xlsx
 
 This assignment focuses on working with structured data and Excel's data-management features.
 
@@ -59,7 +59,7 @@ This assignment focuses on working with structured data and Excel's data-managem
 
 ### ⚠️ Assignment 3: Data Validation, Named Ranges & Error Handling
 
-**File:** `Assignment3 (1)(3).xlsx`
+**File:** `C:\Users\Ali Abbas\Downloads\Assignment3 (1) (1) (1).xlsx
 
 This assignment covers more advanced Excel functionality for controlling data entry, organizing formulas, and handling errors.
 
