@@ -4,7 +4,7 @@ A collection of Excel assignments covering fundamental to intermediate spreadshe
 ## 📁 Repository Structure
 
 ### 📊 Assignment 1: Excel Fundamentals
-<img width="478" height="561" alt="Image" src="https://github.com/user-attachments/assets/27cd33ae-f845-445f-945d-4f9b37f2c035" />
+
 
 **File:** "C:\Users\Ali Abbas\OneDrive\เอกสาร\Assignment1.xlsx"
 
